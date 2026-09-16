@@ -35,6 +35,7 @@ A rain sensor detects rainfall and activates a motor-driven retractable cover. T
 - Solar-powered operation
 - Weather forecast integration
 
+## Team Members
 - Kanishkaa (R25EV013)
 - Hanook (R25EV014)
 - Hemanth (R25EV015)
